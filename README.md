@@ -8,16 +8,6 @@
 <h1 align="center">EasyWeb</h1>
 <p align="center"><strong>Quickly build web applications, integrate Knife4j interface documentation, customize error codes and global exception handlers, all in EasyWeb.</strong></p>
 
-<div align="center">
-    <img alt="Maven" src="https://raster.shields.io/badge/Maven-3.8.1-red.svg"/>
-   <img alt="SpringBoot" src="https://raster.shields.io/badge/SpringBoot-2.7+-green.svg"/>
-    <a href="https://www.cnblogs.com/qimu666/">
-    <img alt="Blog" src="https://raster.shields.io/badge/Blog-Qimu666-blue.svg"/>
-    </a>
-       <img alt="Knife4j" src="https://raster.shields.io/badge/Knife4j-3.0+-orange.svg"/>
-</div>
-
-
 ## Quick Start 🏁
 
 To get started with EasyWeb, you can follow these simple steps:
@@ -28,15 +18,15 @@ To get started with EasyWeb, you can follow these simple steps:
 
    ```xml
    <dependency>
-      <groupId>icu.qimuu</groupId>
+      <groupId>io.github.lyc1360572433</groupId>
       <artifactId>EasyWeb</artifactId>
-      <version>0.0.6</version>
+      <version>0.0.1</version>
    </dependency>
    ```
 
 3. Configuration information:
 
-   - **💥  Starting from `0.0.6` in the new version, you can use the Knife4j interface documentation, custom error codes, and global exception handlers without any configuration, and you will not feel the presence of EasyWeb**
+   - **💥  Starting from `0.0.1` in the new version, you can use the Knife4j interface documentation, custom error codes, and global exception handlers without any configuration, and you will not feel the presence of EasyWeb**
 
    - Of course, you can also configure some `personalized` configurations that you need. **The configurations are as follows:**
    

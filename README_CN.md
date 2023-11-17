@@ -8,14 +8,6 @@
 <h1 align="center">EasyWeb</h1>
 <p align="center"><strong>快速构建Web应用，整合Knife4j接口文档，自定义错误码和全局异常处理器，一切尽在EasyWeb。</strong></p>
 
-<div align="center">
-    <img alt="Maven" src="https://raster.shields.io/badge/Maven-3.8.1-red.svg"/>
-   <img alt="SpringBoot" src="https://raster.shields.io/badge/SpringBoot-2.7+-green.svg"/>
-    <a href="https://www.cnblogs.com/qimu666/">
-    <img alt="Blog" src="https://raster.shields.io/badge/Blog-柒木木-blue.svg"/>
-    </a>
-        <img alt="Knife4j" src="https://raster.shields.io/badge/Knife4j-3.0+-orange.svg"/>
-</div>
 ## 快速启动 🏁
 
 要开始使用 EasyWeb，您可以按照以下简单步骤进行操作:
@@ -26,15 +18,15 @@
 
    ```xml
    <dependency>
-      <groupId>icu.qimuu</groupId>
+      <groupId>io.github.lyc1360572433</groupId>
       <artifactId>EasyWeb</artifactId>
-      <version>0.0.6</version>
+      <version>0.0.1</version>
    </dependency>
    ```
 
 3. 配置信息：
 
-   - **💥 在新的版本从`0.0.6`开始，您<span style="color:red">无需任何配置</span>即可使用Knife4j接口文档，自定义错误码和全局异常处理器， 您将感觉不到EasyWeb的存在。**
+   - **💥 在新的版本从`0.0.1`开始，您<span style="color:red">无需任何配置</span>即可使用Knife4j接口文档，自定义错误码和全局异常处理器， 您将感觉不到EasyWeb的存在。**
 
    - 当然您也可以配置一些您自己需要的`个性化`配置，**配置如下**：
 
@@ -182,6 +174,6 @@ EasyWeb 提供了各种功能，使您的 Web 开发过程更加轻松和高效�
 
 ## 联系我们 📩
 
-如果您对 EasyWeb 有任何问题或建议，请随时联系我们:📩邮箱：2483482026@qq.com。
+如果您对 EasyWeb 有任何问题或建议，请随时联系我们:📩邮箱：1360572433@qq.com。
 
 感谢您使用 EasyWeb！ 😊
